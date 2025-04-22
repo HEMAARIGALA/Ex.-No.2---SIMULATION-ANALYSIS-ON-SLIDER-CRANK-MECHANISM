@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+![empd 2 (2)](https://github.com/user-attachments/assets/fddd8f66-7f3d-45ab-904e-6295a350e25b)# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 22-04-2025
 
@@ -38,10 +38,10 @@
 
 
 ## Output
-![empd 2](https://github.com/user-attachments/assets/4dcb1913-83b0-4eff-9c78-4f334009b289
+![empd 2 (2)](https://github.com/user-attachments/assets/46564797-9ca0-4e2d-9137-bff626e42586)
 
-![empd 2 (2)](https://github.com/user-attachments/assets/2ea26008-5854-4bc5-8011-32774fbbadcc)
 
+![empd 2](https://github.com/user-attachments/assets/4401083a-c8dc-4ad5-8a98-bece2ff42398)
 
 ### Name:A.HEMA
 ### Register Number:212224110005 
